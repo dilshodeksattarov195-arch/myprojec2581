@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailstringify",
+        "uuid": 9221913,
+        "checksum": "k0vtr"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
